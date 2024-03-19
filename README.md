@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm a student fascinated by the power of multi-omics data to uncover complex biological systems.
 
 <!--
 **organomics/organomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
